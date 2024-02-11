@@ -1,10 +1,10 @@
 # Credit Card Validator
 
-A JavaScript program for validating credit card numbers and identifying the card type (Visacard, Mastercard and vervecard).
+A JavaScript program for validating credit card numbers and identifying the card type (Visacard, Mastercard and Vervecard).
 
 ## Overview
 
-This JavaScript program utilizes regular expressions to validate credit card numbers and determine their corresponding types. It supports common credit card types such as Visacard, Mastercard and vervecard.
+This JavaScript program utilizes regular expressions to validate credit card numbers and determine their corresponding types. It supports common credit card types such as Visacard, Mastercard and Vervecard.
 
 ## Features
 
